@@ -1,0 +1,13 @@
+{
+    "name": "azure-app-service-test",
+    "version": "1.0.0",
+    "description": "Example Node.js app for Azure App Service",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {},
+    "engines": {
+      "node": ">=10.0.0"
+    }
+  }
+  
